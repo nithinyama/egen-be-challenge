@@ -1,0 +1,7 @@
+com\app\services\SensorRestfulService.class
+com\app\entities\Sensor.class
+com\app\dao\SensorDAO.class
+com\app\main\ApplicationConfig.class
+com\app\main\Application.class
+com\app\entities\BaseEntity.class
+com\app\main\ApplicationConfig$JerseyConfig.class
